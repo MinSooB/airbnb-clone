@@ -139,3 +139,4 @@ cython_debug/
 
 # MSB addition
 uploads/
+node_modules/
